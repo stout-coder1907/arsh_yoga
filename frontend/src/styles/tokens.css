@@ -1,0 +1,17 @@
+:root {
+  --color-bg: #F7F5EE;        /* cream / sand */
+  --color-surface: #FFFFFF;
+  --color-primary: #2B4C36;   /* deep forest green */
+  --color-primary-soft: #3D6A4A;
+  --color-accent: #B8893A;    /* warm gold */
+  --color-text: #1C1C1C;
+  --color-muted: #6B6B66;
+  --color-border: #E6E1D3;
+
+  --font-serif: "Cormorant Garamond", "Playfair Display", Georgia, serif;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+
+  --radius-sm: 4px;
+  --radius-md: 10px;
+  --radius-lg: 18px;
+}
